@@ -1,7 +1,7 @@
 ################################### Default Configuration ############################
 baseurl = "https://www.focalmedia.io/"
 languageCode = "en"
-title = "Vex"
+title = "Stop the Maddness"
 theme = "vex-hugo"
 
 #################################### Plugins ##########################################
@@ -49,14 +49,14 @@ theme = "vex-hugo"
 logo = ""
 home = "Home"
 # Meta data
-description = "I survived Covid-19"
+description = "I survived Covid-19 T-Shirt"
 author = "stopthemaddness"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # snipcart public api key
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 # copyright
-copyright = "Copyright 2020 &copy; [focalpoint](https://focalmedia.io) | All right reserved."
+copyright = "Copyright 2020 &copy; [focalpoint](https://focalmedia.io) | All rights reserved."
 
 # Preloader
 [params.preloader]

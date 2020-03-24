@@ -40,34 +40,23 @@ theme = "vex-hugo"
 [menu]
     
   [[menu.main]]
-  name = "Feature"
-  URL = "feature"
-  weight = 2
-  
-  [[menu.main]]
   name = "Gallery"
   URL = "gallery"
-  weight = 3
-  
-  [[menu.main]]
-  name = "Testimonial"
-  URL = "testimonial"
-  weight = 4
-
+  weight = 1
 
 ########################### Default parameters ##########################
 [params]
 logo = ""
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "I survived Covid-19"
+author = "stopthemaddness"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # snipcart public api key
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 # copyright
-copyright = "Copyright 2019 &copy; [themefisher](http://www.Themefisher.com) | All right reserved."
+copyright = "Copyright 2020 &copy; [focalpoint](https://focalmedia.io) | All right reserved."
 
 # Preloader
 [params.preloader]

@@ -17,6 +17,10 @@ theme = "vex-hugo"
   [[params.plugins.css]]
   URL = "css/themefisher-fonts.css"
   [[params.plugins.css]]
+  URL = "css/customfont.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+  [[params.plugins.css]]
   URL = "css/owl.carousel.css"
   [[params.plugins.css]]
   URL = "css/magnific-popup.css"
@@ -37,13 +41,13 @@ theme = "vex-hugo"
 
 
 ###################################### Navigation ######################################
-[menu]
-    
-  [[menu.main]]
-  name = "Gallery"
-  URL = "gallery"
-  weight = 1
-
+# [menu]
+#    
+#  [[menu.main]]
+#  name = "About"
+#  URL = "aboutProduct"
+#  weight = 2
+#
 ########################### Default parameters ##########################
 [params]
 logo = ""
@@ -54,7 +58,7 @@ author = "stopthemaddness"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # snipcart public api key
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+snipcart_api = "MWJjNTI0MjAtM2M5NC00NzRhLTk0NzAtN2MyNmU2ZWZlN2U5NjM3MjA2MTAwMjkxOTU4MTg2"
 # copyright
 copyright = "Copyright 2020 &copy; [focalpoint](https://focalmedia.io) | All rights reserved."
 

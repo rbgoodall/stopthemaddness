@@ -41,13 +41,13 @@ theme = "vex-hugo"
 
 
 ###################################### Navigation ######################################
-# [menu]
-#    
-#  [[menu.main]]
-#  name = "About"
-#  URL = "aboutProduct"
-#  weight = 2
-#
+ [menu]
+    
+  [[menu.main]]
+  name = "About"
+  URL = "aboutProduct"
+  weight = 2
+
 ########################### Default parameters ##########################
 [params]
 logo = ""
@@ -60,7 +60,7 @@ google_analitycs_id = "Your ID"
 # snipcart public api key
 snipcart_api = "MWJjNTI0MjAtM2M5NC00NzRhLTk0NzAtN2MyNmU2ZWZlN2U5NjM3MjA2MTAwMjkxOTU4MTg2"
 # copyright
-copyright = "Copyright 2020 &copy; [focalpoint](https://focalmedia.io) | All rights reserved."
+copyright = "Copyright 2020 &copy; [FocalPoint LLC](https://focalmedia.io) | All rights reserved."
 
 # Preloader
 [params.preloader]

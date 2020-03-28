@@ -30,6 +30,11 @@ footer {
         left: 0;
         right: 0;
 }
+
+.navbar-brand {
+        font-family: mentha_rapture, josefin sans,sans-serif;
+}
+
 .bg-dark {
         background-color: #3b4045 !important;
 }

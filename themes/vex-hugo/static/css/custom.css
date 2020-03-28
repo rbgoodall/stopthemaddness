@@ -1,6 +1,6 @@
 .banner-text h1 {
         display: inline;
 }
-.body {
+#body {
         background-color: #000 !important;
 }

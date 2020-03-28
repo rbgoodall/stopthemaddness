@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://www.focalmedia.io/"
+baseurl = "https://focalmedia.io/"
 languageCode = "en"
 title = "Stop the Maddness"
 theme = "vex-hugo"

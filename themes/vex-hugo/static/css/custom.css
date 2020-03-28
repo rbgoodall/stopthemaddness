@@ -15,3 +15,8 @@
 .footer {
     background-color: #1a1a1a !important;
 }
+.navbar {
+        position: absolute !important;
+        left: 0;
+        right: 0;
+}

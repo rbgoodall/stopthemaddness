@@ -32,7 +32,7 @@ footer {
 }
 
 .navbar-brand {
-        font-family: mentha_rapture, josefin sans,sans-serif;
+        font-family: rapture,josefin sans,sans-serif !important;
 }
 
 .bg-dark {

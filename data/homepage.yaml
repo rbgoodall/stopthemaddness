@@ -5,7 +5,7 @@ banner:
   titlepost: "? Have a T-Shirt to prove it."
   content : ""
   image : "images/shirt.jpeg"
-  button: "Pre-Order Now! \n$19.99"
+  button: "Pre-Order Now!" \n" $19.99"
 
 ############################## product ###########################
 product:

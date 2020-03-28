@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable : true
-  titlepre : "Plan on surviving" 
+  titlepre : "Plan on not surviving" 
   titlepost: "? Have a T-Shirt to prove it."
   content : ""
   image : "images/shirt.jpeg"

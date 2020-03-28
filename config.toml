@@ -64,5 +64,5 @@ copyright = "Copyright 2020 &copy; [FocalPoint LLC](https://focalmedia.io) | All
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "" # use .png , .svg or .gif format

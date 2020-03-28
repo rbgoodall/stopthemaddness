@@ -8,7 +8,7 @@
 				<img class="img-fluid" src="{{ .image | absURL }}" alt="">
 			</div>
 			<div class="col-md-6 align-self-center text-center text-md-left">
-				<div class="block banner-text">
+				<div class="block banner-text textdrop">
                                         <h1 class="font-weight-bold mb-4 font-size-60">{{ .titlepre | markdownify }}</h1><h1 class="mb-4 font-size-60" style='font-family: takecover;'> COVID-19</h1><h1 class="font-weight-bold mb-4 font-size-60">{{ .titlepost| markdownify }}</h1>
 					<p class="mb-4">{{ .content | markdownify }}</p>
 					{{- end }}

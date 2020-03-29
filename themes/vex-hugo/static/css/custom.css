@@ -37,7 +37,6 @@ footer {
         background-color: #3b4045 !important;
 }
 .textdrop {
-        background-color: #d8d8d8;
+        background-color: rgba(216,216,216, 0.97);
         padding: 10px 10px;
-        opacity: .97;
 }

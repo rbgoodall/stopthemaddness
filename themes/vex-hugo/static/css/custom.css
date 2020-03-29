@@ -14,7 +14,7 @@
 }
 
 footer {
-    background: #000;
+    background: #000 !important;
     background-color: rgb(0, 0, 0);
     background-position-x: 0%;
     background-position-y: 0%;

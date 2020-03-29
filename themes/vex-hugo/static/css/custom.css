@@ -26,9 +26,6 @@ footer {
     background-clip: border-box;
 }
 .navbar {
-        position: absolute !important;
-        left: 0;
-        right: 0;
 }
 .bg-dark {
         background-color: #3b4045 !important;

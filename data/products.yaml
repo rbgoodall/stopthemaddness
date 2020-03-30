@@ -1,0 +1,25 @@
+Covid19:
+  name : "I Survived COVID-19"
+  price : "19.99"
+  colors : ["gray"]
+  sizes : ["small","medium","large"]
+  titlepre : "Plan on surviving"
+  takecover: "Covid-19"
+  titlepost: "? Have a T-Shirt to prove it."
+  content : ""
+  image : "images/shirt.jpeg"
+  backimage: "images/shirt-back.jpeg"
+  button: "Pre-Order Now! $19.99"
+
+Essentials Only:
+  name : "I Survived COVID-19"
+  price : "19.99"
+  colors : ["gray"]
+  sizes : ["small","medium","large"]
+  titlepre : "Plan on surviving"
+  takecover: "the Virus"
+  titlepost: "? Have a T-Shirt to prove it."
+  content : ""
+  image : "images/shirt.jpeg"
+  backimage: "images/shirt-back.jpeg"
+  button: "re-Order Now! $19.99"

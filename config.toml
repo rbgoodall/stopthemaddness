@@ -41,13 +41,13 @@ theme = "vex-hugo"
 
 
 ###################################### Navigation ######################################
- [menu]
-    
-  [[menu.main]]
-  name = "About"
-  URL = "aboutProduct"
-  weight = 2
-
+# [menu]
+#    
+#  [[menu.main]]
+#  name = "About"
+#  URL = "aboutProduct"
+#  weight = 2
+#
 ########################### Default parameters ##########################
 [params]
 logo = ""

@@ -34,6 +34,8 @@
 {{ $script := resources.Get "script.js" }}
 <script src="{{ $script.Permalink }}"></script>
 
+<script src="theme-toggle.js"></script>
+
 <!-- google analitycs -->
 {{ with .Site.Params.google_analitycs_id }}
 <script>

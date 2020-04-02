@@ -40,7 +40,6 @@ footer {
         background-color: rgba(216,216,216, 0.97);
         padding: 10px 10px;
 }
-<<<<<<< HEAD
 
 html, html[data-theme="light"], {
   --light-text-color: hsl(0, 0%, 35%);
@@ -52,8 +51,9 @@ html[data-theme="dark"] {
   --light-text-color: hsl(0, 0%, 60%);
   --main-background-color: hsl(0, 0%, 10%);
   --main-text-color: hsl(0, 10%, 80%);
-=======
- /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+}
+
+/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
   background-color: transparent;
   width: 300px;

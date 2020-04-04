@@ -1,72 +1,47 @@
-################################### Default Configuration ############################
 baseurl = "https://focalmedia.io/"
 languageCode = "en"
-title = "Stop the Maddness"
 theme = "vex-hugo"
-
-#################################### Plugins ##########################################
-[params.plugins]
-
-  # CSS Plugins
-  [[params.plugins.css]]
-  URL = "https://fonts.googleapis.com/css?family=Droid+Serif:400i|Source+Sans+Pro:300,400,600,700"
-  [[params.plugins.css]]
-  URL = "https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600,700"
-  [[params.plugins.css]]
-  URL = "css/bootstrap.min.css"
-  [[params.plugins.css]]
-  URL = "css/themefisher-fonts.css"
-  [[params.plugins.css]]
-  URL = "css/customfont.css"
-  [[params.plugins.css]]
-  URL = "css/custom.css"
-  [[params.plugins.css]]
-  URL = "css/owl.carousel.css"
-  [[params.plugins.css]]
-  URL = "css/magnific-popup.css"
-  [[params.plugins.css]]
-  URL = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.css"
-
-  # JS Plugins
-  [[params.plugins.js]]
-  URL = "js/jquery-2.1.1.min.js"
-  [[params.plugins.js]]
-  URL = "js/bootstrap.min.js"
-  [[params.plugins.js]]
-  URL = "js/owl.carousel.min.js"
-  [[params.plugins.js]]
-  URL = "js/jquery.magnific-popup.min.js"
-  [[params.plugins.js]]
-  URL = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.js"
-  [[params.plugins.js]]
-  URL = "js/theme-data.js"
-  [[params.plugins.js]]
-  URL = "js/theme-toggle.js"
-
-
-###################################### Navigation ######################################
-# [menu]
-#    
-#  [[menu.main]]
-#  name = "About"
-#  URL = "aboutProduct"
-#  weight = 2
-#
-########################### Default parameters ##########################
+title = "Stop the Maddness"
 [params]
-logo = ""
-home = "Home"
-# Meta data
-description = "I survived Covid-19 T-Shirt"
 author = "stopthemaddness"
-# Google Analitycs
-google_analitycs_id = "Your ID"
-# snipcart public api key
-snipcart_api = "MWJjNTI0MjAtM2M5NC00NzRhLTk0NzAtN2MyNmU2ZWZlN2U5NjM3MjA2MTAwMjkxOTU4MTg2"
-# copyright
 copyright = "Copyright 2020 &copy; [FocalPoint LLC](https://focalmedia.io) | All rights reserved."
-
-# Preloader
+description = "I survived Covid-19 T-Shirt"
+google_analitycs_id = "Your ID"
+home = "Home"
+logo = ""
+snipcart_api = "MWJjNTI0MjAtM2M5NC00NzRhLTk0NzAtN2MyNmU2ZWZlN2U5NjM3MjA2MTAwMjkxOTU4MTg2"
+[[params.plugins.css]]
+URL = "https://fonts.googleapis.com/css?family=Droid+Serif:400i|Source+Sans+Pro:300,400,600,700"
+[[params.plugins.css]]
+URL = "https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600,700"
+[[params.plugins.css]]
+URL = "css/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "css/themefisher-fonts.css"
+[[params.plugins.css]]
+URL = "css/customfont.css"
+[[params.plugins.css]]
+URL = "css/custom.css"
+[[params.plugins.css]]
+URL = "css/owl.carousel.css"
+[[params.plugins.css]]
+URL = "css/magnific-popup.css"
+[[params.plugins.css]]
+URL = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.css"
+[[params.plugins.js]]
+URL = "js/jquery-2.1.1.min.js"
+[[params.plugins.js]]
+URL = "js/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "js/owl.carousel.min.js"
+[[params.plugins.js]]
+URL = "js/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+URL = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.js"
+[[params.plugins.js]]
+URL = "js/theme-data.js"
+[[params.plugins.js]]
+URL = "js/theme-toggle.js"
 [params.preloader]
 enable = false
-preloader = "" # use .png , .svg or .gif format
+preloader = ""
